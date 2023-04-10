@@ -1,4 +1,4 @@
-//Pair: Ivan James Lo & Pretty Faith Misuarez
+//Pair: Lo & Misuarez
 //Computer Programming 2 | Class 4-301
 
 import java.util.*; //library that can load the contents of the java.util package
